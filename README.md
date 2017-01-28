@@ -13,6 +13,8 @@ _This is a webpage that gives some background information on Jasun Feddema and s
 
 * _Clone repository onto your local desktop_
 * _Open the index.html file in a browser of your choice_
+ _OR_
+* _Open [gh-pages](https://jaybojaybojaybo.github.io/portfolio/) version of the site_
 
 ## Known Bugs
 
